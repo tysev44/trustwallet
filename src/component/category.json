@@ -1,0 +1,9 @@
+[
+    { "id": "4", "title": "Rice Dishes", "img": "frice"},
+    { "id": "2", "title": "Meat & Fish", "img": "chicken"},
+    { "id": "3", "title": "Snacks", "img": "burg"},
+    { "id": "5", "title": "Beverages", "img": "smoov"},
+    { "id": "7", "title": "Sweets", "img": "ice2"},
+    { "id": 1, "title": "Main Dishes", "img": "frice"},
+    { "id": "8", "title": "soup", "img": "frice"}
+]
